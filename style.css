@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+.col {
+    float: left;
+    margin-left: 5%;
+}
+
+.col-3{
+    width: 25%;
+}
